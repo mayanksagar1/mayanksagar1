@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayank Sagar</h1>
+<h1 align="center">Hi there 👋, I'm Mayank Sagar</h1>
 <h3 align="center">I'm an aspiring web developer passionate about building beautiful and functional web applications. I love coding, learning new technologies, and sharing knowledge with the community.</h3>
 
 -   🔭 I’m currently working on honing my skills in front-end and back-end development.
