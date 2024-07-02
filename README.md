@@ -7,7 +7,7 @@
 
 -   👯 I’m looking to collaborate on open-source projects and web development challenges.
 
--   📫 How to reach me **MayanSagar963@gmail.com**
+-   📫 How to reach me **MayankSagar963@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
